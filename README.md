@@ -1,1 +1,1 @@
-# MedTrackPro
+# MedTrack Pro is a cutting-edge medication tracking and reminder application designed to empower users in managing their prescriptions with ease and precision. This intuitive and user-friendly app is equipped with features that simplify medication adherence, providing direct users with a reliable and comprehensive solution to stay on top of their health.
